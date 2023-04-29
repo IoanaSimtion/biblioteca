@@ -12,11 +12,11 @@ using System.Windows.Forms;
 
 namespace library.view
 {
-    public partial class Home : Form
+    public partial class Wishlist : Form
     {
 
         private BookLibrary bookLibrary;
-        public Home()
+        public Wishlist()
         {
             InitializeComponent();
 

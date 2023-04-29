@@ -131,7 +131,7 @@
             this.btnCreate.Name = "btnCreate";
             this.btnCreate.Size = new System.Drawing.Size(245, 45);
             this.btnCreate.TabIndex = 9;
-            this.btnCreate.Text = "Create New Book";
+            this.btnCreate.Text = "Add New Book";
             this.btnCreate.UseVisualStyleBackColor = true;
             this.btnCreate.Click += new System.EventHandler(this.btnCreate_Click);
             // 
